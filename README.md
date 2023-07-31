@@ -1,3 +1,3 @@
-# chamorosso.github.io
+# Home
 
 **チャモ・ロッソのホームページへようこそ**
